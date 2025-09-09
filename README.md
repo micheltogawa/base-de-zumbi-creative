@@ -50,7 +50,8 @@ group "42" Admin "1"
 ### 📬 Suporte
 
 Dúvidas, sugestões ou problemas?  
-👉 Abra um ticket no nosso [Discord Oficial](https://discord.gg/fivecommunity)
+👉 Abra um ticket no nosso [Discord Oficial](https://discord.gg/DHVhHZwtuK)
+ou me chame no pv : 1221z
 
 ---
 
@@ -99,7 +100,8 @@ group "42" Admin "1"
 ### 📬 Support
 
 Questions, suggestions, or issues?  
-👉 Open a ticket on our [Official Discord](https://discord.gg/fivecommunity)
+👉 Open a ticket on our [Official Discord](https://discord.gg/DHVhHZwtuK)
+or call me in the private message on Discord: 1221z
 
 ---
 
